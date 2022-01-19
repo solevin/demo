@@ -7,7 +7,6 @@ import 'package:provider/provider.dart';
 class TopScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    int num = 0;
     return Scaffold(
       appBar: AppBar(
         title: Text(
